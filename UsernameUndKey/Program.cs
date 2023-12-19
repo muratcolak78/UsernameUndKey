@@ -30,4 +30,5 @@ do
         Console.Write(symbol);
     }
 } while (key.Key != ConsoleKey.Enter);
+Console.WriteLine("deneme");
 
